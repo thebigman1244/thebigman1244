@@ -21,20 +21,10 @@ A private browser VM platform for Raspberry Pi with disposable sessions, layered
 
 **Status:** Active and documented
 
-### [Autonomous Field Line Painting Robot](https://github.com/thebigman1244/Line-Painting-Robot)
-A lower-cost robotic platform that combines GNSS positioning, compass-based heading correction, differential drive, and an ESP32 web interface.
-
-**Status:** Work in progress
-
 ### [AI Hitting Analyzer](https://github.com/thebigman1244/ai-hitting-analyzer)
 A Flask and OpenCV prototype that estimates baseball exit velocity, launch angle, and projected distance from video.
 
 **Status:** Experimental work in progress
-
-### [Coding Hub Backend](https://github.com/thebigman1244/codinghub-backend)
-An Express backend for an AI terminal-style interface, with OpenAI API integration and optional operational logging.
-
-**Status:** Prototype in progress
 
 ### [Game Hub Redirector](https://github.com/thebigman1244/gamehub)
 A lightweight static redirector with rotating daily paths and hosted deployment configuration.
@@ -43,7 +33,6 @@ A lightweight static redirector with rotating daily paths and hosted deployment 
 
 ## Current focus
 
-- Completing the autonomous control and paint systems for the field-line robot
 - Improving computer-vision reliability in the hitting analyzer
 - Building safer, better-documented self-hosted software
 - Expanding my skills through hands-on projects
