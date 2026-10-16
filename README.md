@@ -70,7 +70,7 @@ A lightweight static redirector with rotating daily paths and hosted deployment 
 <br/>
 ![GitHub contribution streak](https://streak-stats.demolab.com/?user=thebigman1244&theme=dark&hide_border=false)
 <br/>
-![Most-used languages](https://github-readme-stats.shion.dev/api/top-langs/?username=thebigman1244&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![Most-used languages](https://github-readme-stats.shion.dev/api/top-langs/?username=thebigman1244&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact&hide=Procfile)
 
 ---
 
