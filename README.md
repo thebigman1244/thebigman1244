@@ -37,6 +37,16 @@ A lightweight static redirector with rotating daily paths and hosted deployment 
 - Building safer, better-documented self-hosted software
 - Expanding my skills through hands-on projects
 
+## 📊 GitHub Stats
+
+![Bryce's GitHub stats](https://github-readme-stats.shion.dev/api?username=thebigman1244&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
+<br/>
+![GitHub contribution streak](https://streak-stats.demolab.com/?user=thebigman1244&theme=dark&hide_border=false)
+<br/>
+![Most-used languages](https://github-readme-stats.shion.dev/api/top-langs/?username=thebigman1244&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
 ---
+
+[![Profile views](https://komarev.com/ghpvc/?username=thebigman1244&icon=0&color=0)](https://visitcount.itsvg.in)
 
 I use GitHub to share finished work as well as honest, clearly labeled prototypes. Projects marked **Work in progress** are actively being improved.
